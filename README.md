@@ -1,4 +1,4 @@
-# standard-git-comands
+# standard-git-commands
 Notes about using git
 
 - Go to repo on GitHub
