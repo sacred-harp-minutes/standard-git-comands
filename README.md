@@ -25,10 +25,10 @@ Notes about using git
   - `git add <file>`
   - `git commit -m 'MESSAGE'`
   - `git push`
-  - tells you what command you need to set up branch on GitHub
-  - gives you instructions for creating a pull request on GitHub
-  - once you've merged the pull request (on GitHub) you can delete branch
-  - but you still have the branch locally
+    - tells you what command you need to set up branch on GitHub
+    - gives you instructions for creating a pull request on GitHub
+    - once you've merged the pull request (on GitHub) you can delete branch
+    - but you still have the branch locally
   - `git checkout master` (go back to master branch locally)
 
 7. Pull changes into local master branch copy
