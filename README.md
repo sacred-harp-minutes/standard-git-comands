@@ -6,6 +6,7 @@ Notes about using git
 - Copy the address
 - in Terminal type 
   - `git clone <clonedaddressfromGitHub>`
+  - `cd <clonedaddressfromGitHub>`
 
 - Create branch
   - `git checkout -b <branchName>`
