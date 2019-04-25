@@ -1,26 +1,27 @@
 # standard-git-commands
 Notes about using git
 
-- Go to repo on GitHub
-- Click on Clone/Download
-- Copy the address
-- in Terminal type 
-  - `git clone <clonedaddressfromGitHub>`
-  - `cd <clonedaddressfromGitHub>`
+1. Clone repo
+  - Go to repo on GitHub
+  - Click on Clone/Download
+  - Copy the address
+  - in Terminal type 
+    - `git clone <clonedaddressfromGitHub>`
+    - `cd <clonedaddressfromGitHub>`
 
-- Create branch
+2. Create branch
   - `git checkout -b <branchName>`
 
-- Make local changes
+3. Make local changes
 
-- Figure out where you stand? 
+4. Figure out where you stand? 
   - `git status` (where are things)
   - `git log` (what happened)
 
-- Overwrite local
+5. Overwrite local
   `git checkout -- <file>`
 
-- Save change to GitHub
+6. Save change to GitHub
   - `git add <file>`
   - `git commit -m 'MESSAGE'`
   - `git push`
@@ -30,5 +31,5 @@ Notes about using git
   - but you still have the branch locally
   - `git checkout master` (go back to master branch locally)
 
-- Pull changes into local master branch copy
+7. Pull changes into local master branch copy
   - `git pull`
