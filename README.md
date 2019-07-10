@@ -22,7 +22,7 @@ Notes about using git
   `git checkout -- <file>`
 
 6. Save change to GitHub
-  - `git add <file>`
+  - `git add <file>` (`git add .` adds all files and folders in the current directory)
   - `git commit -m 'MESSAGE'`
   - `git push`
     - tells you what command you need to set up branch on GitHub
